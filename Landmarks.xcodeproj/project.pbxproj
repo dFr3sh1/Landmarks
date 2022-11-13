@@ -126,8 +126,8 @@
 		DC12302129044EDC001EB865 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				DC1230802905950F001EB865 /* Profiles */,
 				DC12300B29043E10001EB865 /* ContentView.swift */,
+				DC1230802905950F001EB865 /* Profiles */,
 				DC12307529056B9B001EB865 /* Categories */,
 				DC12306C290559B8001EB865 /* Hikes */,
 				DC12306729055499001EB865 /* Badges */,
@@ -142,6 +142,7 @@
 			children = (
 				DC12306829055703001EB865 /* hikeData.json */,
 				DC123026290453D9001EB865 /* landmarkData.json */,
+				DC12306D290559B8001EB865 /* GraphCapsule.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -192,7 +193,6 @@
 		DC12306C290559B8001EB865 /* Hikes */ = {
 			isa = PBXGroup;
 			children = (
-				DC12306D290559B8001EB865 /* GraphCapsule.swift */,
 				DC12306E290559B8001EB865 /* HikeGraph.swift */,
 				DC12306F290559B8001EB865 /* HikeDetail.swift */,
 				DC123070290559B8001EB865 /* HikeView.swift */,
